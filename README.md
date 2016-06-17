@@ -1,9 +1,9 @@
 # tanks
 <b>Norwalk High School</b> :school: - Project Lead The Way (PLTW) Computer Sceince</b><br>
 <b>Class:</b> Computer Science Applications (CSA) -2nd Year (Sophmores) <br>
-Player number 1 controls: W, A, S, D, and shoot with space bar
+Player number 1 controls: W, A, S, D, and shoot with "Space Bar"
 
-Player number 2 controls: the arrow keys and shoot with enter
+Player number 2 controls: the arrow keys and shoot with the "Enter" key
 
 <p>
 Example screenshots of our completed Tanks game.</p>
